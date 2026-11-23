@@ -1,0 +1,24 @@
+.ion-padding {
+  --background: var(--ion-background-color);
+}
+
+ion-list {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+ion-item h2 {
+  white-space: normal;
+  line-height: 1.4;
+}
+
+ion-badge {
+  margin-inline-start: 12px;
+}
+
+ion-segment-button {
+  --color: #ffffff;
+  --color-checked: #ffffff;
+  --indicator-color: #3880ff;
+  font-weight: 600;
+}

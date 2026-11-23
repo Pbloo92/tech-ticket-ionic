@@ -1,0 +1,13 @@
+Proyecto TechTicket FP basado en Lab_Reactividad.pdf.
+
+Para ejecutar:
+1) npm install
+2) ionic serve
+
+Para preparar Android (requiere Android Studio/SDK):
+1) ionic build
+2) npx cap add android
+3) npx cap sync android
+4) npx cap open android
+
+La carpeta android se genera en el equipo de desarrollo y no se incluye en este ZIP.
