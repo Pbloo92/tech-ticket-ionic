@@ -1,4 +1,7 @@
 {
   "name": "tech-ticket",
-  "type": "angular"
+  "type": "angular",
+  "integrations": {
+    "capacitor": {}
+  }
 }
